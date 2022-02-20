@@ -7,11 +7,12 @@
    id="svg6"
    inkscape:version="1.1-dev (b39e6d56, 2020-09-19)"
    sodipodi:docname="ENS.svg"
-   inkscape:export-filename="/Users/avneetsingh/Documents/IPC/dao-attacks/ENS/ENS.png"
+   inkscape:export-filename="/Users/avneetsingh/Documents/IPC/dao-attacks/ENS/Images/PNG/ENS.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -165,13 +166,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12"
-     inkscape:cx="3683.3333"
+     inkscape:cx="3183.3333"
      inkscape:cy="1412.5"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-height="819"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -184,8 +185,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(494.79479,234.28197)"
-     sodipodi:insensitive="true">
+     transform="translate(494.79479,234.28197)">
+    <g
+       id="g1484"
+       transform="translate(-270.96857,297.3793)">
+      <image
+         width="574.87286"
+         height="641.89679"
+         preserveAspectRatio="none"
+         xlink:href="../GIF/Combined/ens.png"
+         id="image1415-8"
+         x="335.63147"
+         y="-422.94308"
+         style="opacity:0.115756" />
+      <image
+         width="437.05386"
+         height="437.05386"
+         preserveAspectRatio="none"
+         xlink:href="../GIF/Combined/eth.png"
+         id="image1439"
+         x="404.54095"
+         y="-320.52161"
+         style="opacity:0.0932476" />
+    </g>
     <rect
        style="opacity:0.115756;fill:#0075ff;fill-opacity:0.458824;fill-rule:evenodd;stroke:none;stroke-width:0.525598;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        id="rect940-4"
@@ -305,6 +327,14 @@
        height="858.87817"
        x="-494.56729"
        y="-234.05447" />
+    <image
+       width="131.42525"
+       height="146.748"
+       preserveAspectRatio="none"
+       xlink:href="../GIF/Combined/ens.png"
+       id="image1415"
+       x="-440.91095"
+       y="-202.91313" />
   </g>
   <g
      inkscape:groupmode="layer"
